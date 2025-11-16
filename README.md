@@ -1,4 +1,4 @@
-# BYT_Assignment
+# BYT Assignment
 
 A simple Java 25 console program created for a BYT assignment.  
 It computes areas and volumes of various shapes and offers a basic arithmetic calculator with proper unit tests to them.
